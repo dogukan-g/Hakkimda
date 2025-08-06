@@ -37,7 +37,8 @@ Bilgimi pratiğe dökerek, gerçek projelerde yer almak. Problem çözme, analit
 
 ## 🌍 Sosyal Bağlantılar
 
-- [LinkedIn](https://www.linkedin.com/in/dogukang/)
+- [LinkedIn](https://www.linkedin.com/in/dogukan-g/)
+- [Website](https://dogukan-g.github.io/Websitem/)
 
 ---
 
