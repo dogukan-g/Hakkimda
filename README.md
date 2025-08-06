@@ -1,6 +1,10 @@
 # 💻 Jr. Cyber Security Specialist | Penetration Tester | Red Team
 
-Merhaba! Ben Doğukan (21), siber güvenlik alanında uzmanlaşmış genç ve tutkulu bir bilişim uzmanıyım. Ağ İşletmenliği ve Siber Güvenlik üzerine teknik lise eğitimi aldım. İspanya'da Erasmus kapsamında 1, Türkiye'de ise 2 farklı şirkette staj yaptım. Mezuniyetimden bu yana kendimi **Network Security**, **Pentest**, **Red Teaming** ve **Web Application Security** alanlarında geliştiriyorum.
+Bilişim Teknolojileri sektöründeki yolculuğuma 16 yaşımda başladım. **Ağ İşletmenliği ve Siber Güvenlik** odaklı mesleki lise eğitimim sırasında, **İspanya’da ve Türkiye’de olmak üzere üç farklı şirkette yaptığım stajlarla** teorik bilgilerimi pratikle pekiştirdim. Mezuniyet sonrası Siber Güvenlik alanında uzmanlaşmaya devam ettim.
+
+Çalışmalarımı **Network Security & Pentesting** üzerine sürdürmekteyim. Güncel teknolojileri takip ediyor, kişisel projelerim ve tamamladığım çevrim içi kurslarla kendimi sürekli geliştiriyorum. **Web Application Security, System Administrator, Bug Bounty ve Web Development** gibi alanlarda da en az temel seviyede bilgi ve deneyime sahibim. Yeni teknolojilere hızlı adapte olabilen ve farklı pozisyonlarda sorumluluk almaya istekli bir yapıya sahibim.
+
+Amacım; problem çözme, analitik düşünme ve uygulama becerilerimi kullanarak teorik bilgi birkimimi pratiğe dökmek, ve içinde yer alacağım ekibe yeni değerler katmak.
 
 ## 🚀 Hedefim
 Bilgimi pratiğe dökerek, gerçek projelerde yer almak. Problem çözme, analitik düşünme ve saldırı-simülasyon testlerinde derinleşerek sektöre katkı sağlayacak işler üretmek istiyorum.
