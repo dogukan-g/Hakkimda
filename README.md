@@ -1,47 +1,43 @@
-# 💻 Jr. Cyber Security Specialist | Penetration Tester | Red Team
+# Merhaba, Ben [Adın Soyadın] 👋
 
-Bilişim Teknolojileri sektöründeki yolculuğuma 16 yaşımda başladım. **Ağ İşletmenliği ve Siber Güvenlik** odaklı mesleki lise eğitimim sırasında, **İspanya’da ve Türkiye’de olmak üzere üç farklı şirkette yaptığım stajlarla** teorik bilgilerimi pratikle pekiştirdim. Mezuniyet sonrası Siber Güvenlik alanında uzmanlaşmaya devam ettim.
+### 🛡️ Jr. Cyber Security Specialist | Penetration Tester | Red Teamer
 
-Çalışmalarımı **Network Security & Pentesting** üzerine sürdürmekteyim. Güncel teknolojileri takip ediyor, kişisel projelerim ve tamamladığım çevrim içi kurslarla kendimi sürekli geliştiriyorum. **Web Application Security, System Administrator, Bug Bounty ve Web Development** gibi alanlarda da en az temel seviyede bilgi ve deneyime sahibim. Yeni teknolojilere hızlı adapte olabilen ve farklı pozisyonlarda sorumluluk almaya istekli bir yapıya sahibim.
-
-Amacım; problem çözme, analitik düşünme ve uygulama becerilerimi kullanarak teorik bilgi birkimimi pratiğe dökmek, ve içinde yer alacağım ekibe yeni değerler katmak.
-
-## 🚀 Hedefim
-Bilgimi pratiğe dökerek, gerçek projelerde yer almak. Problem çözme, analitik düşünme ve saldırı-simülasyon testlerinde derinleşerek sektöre katkı sağlayacak işler üretmek istiyorum.
+16 yaşından beri bilişim dünyasının içinde olan, 5 yıllık sektör deneyimine sahip ve siber güvenliği bir yaşam biçimi haline getirmiş biriyim. Teoriği sahada pekiştirmeyi seven, hem saldırı (Offensive) hem de savunma (Defensive) tarafında kendini geliştirmiş bir siber güvenlik araştırmacısıyım.
 
 ---
 
-## 🔧 Uzmanlık Alanlarım
+### 🛠️ Nelerle İlgileniyorum?
 
-- 🛡 **Pentest & Red Teaming**
-- 🌐 **Web Uygulama Güvenliği**
-- 🧠 **Sızma Testi Raporlama & Açık Analizi**
-- 📡 **Network Güvenliği (Router, Switch, Firewall)**
-- 🐧 **Linux Sistem Güvenliği & Hardening**
-- 🔍 **CTF & Bug Bounty**
+- **Sızma Testleri:** Web uygulama güvenliği (OWASP Top 10), ağ sızma testleri ve zafiyet analizi.
+- **Exploit & Araç Geliştirme:** Python ile ağ trafiği analizi, MAC changer, MITM tool ve Buffer Overflow exploitleri geliştirme.
+- **Red & Blue Teaming:** Kurumsal lab ortamlarında aktif simülasyonlar, hardening (sistem sıkılaştırma) ve olay müdahalesi.
+- **Ağ Yönetimi:** Cisco altyapıları, Active Directory yönetimi ve güvenli ağ mimarileri tasarımı.
 
 ---
 
-## 🧠 Öğrendiklerimi Paylaştığım Projeler
+### 💻 Teknoloji Yığınım (Tech Stack)
 
-| Proje Adı | Açıklama |
-|----------|----------|
-| 🔍 `owasp-top10-tests` | OWASP Top 10'a karşı örnek test senaryoları ve zafiyet analizleri |
-| 🐍 `simple-port-scanner` | Python ile geliştirilmiş basit bir port tarama aracı |
-| 📄 `sample-penetration-report` | Gerçekçi bir sızma testi senaryosu ve profesyonel raporu |
-| 🌐 `my-security-lab` | Kendi kurduğum yerel lab ortamı (Kali + hedef sistemler) |
-
-*(Projeler zamanla eklenecek. Takipte kalın.)*
+- **Güvenlik Araçları:** Nmap, Burp Suite, Metasploit, Wireshark, SQLmap, Hydra.
+- **Programlama & Scripting:** Python, Bash, PHP, JavaScript.
+- **Sistem & Network:** Linux (Kali, Ubuntu), Windows Server, Active Directory, Cisco Networking.
+- **Bulut & DevSecOps:** AWS & Azure IAM, Docker, Virtualization (VMware/VirtualBox).
 
 ---
 
-## 🌍 Sosyal Bağlantılar
+### 📊 Deneyim Özeti
 
-- [LinkedIn](https://www.linkedin.com/in/dogukan-g/)
-- [Website](https://dogukan-g.github.io/Websitem/)
+- **Serbest Güvenlik Danışmanı:** Red & Blue Team egzersizleri ve freelance pentest süreçleri.
+- **Yazılım & Web Geliştirme Stajları:** Güvenli kodlama (Secure Coding) ve ağ trafiği manipülasyonu odaklı projeler.
+- **Ağ Sistemleri (Sevilla, İspanya):** Uluslararası düzeyde kurumsal ağ altyapı yönetimi ve optimizasyonu.
 
 ---
 
-## ✉️ İletişim
-> Sorularınız veya işbirliği teklifleri için bana ulaşmaktan çekinmeyin!  
-📬 `dgtechsec@gmail.com`
+### 📫 Benimle İletişime Geç:
+
+- **LinkedIn:** [LinkedIn Profil Linkin]
+- **E-posta:** [E-posta Adresin]
+- **Web/Blog:** [Varsa Web Siten]
+
+---
+
+> "En iyi savunma, saldırıyı iyi bilmekten geçer." 🛡️⚡
