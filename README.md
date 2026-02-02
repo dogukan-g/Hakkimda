@@ -1,52 +1,47 @@
-# Selam! Ben [Adın Soyadın] 👋 🚀
+# Selamlar! Ben [İsim Soyisim] 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[GitHub-Kullanıcı-Adın]&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="görüntülenme" />
-</p>
+### 🛡️ Junior Cyber Security Specialist | Penetration Tester | Red Teamer
 
----
+Bilişim teknolojileri dünyasına 16 yaşında adım atmış, ağ işletmenliği ve siber güvenlik odaklı mesleki temelini saha tecrübesiyle birleştirmiş bir **BT Profesyoneliyim.** 5 yıllık sektörel deneyimim boyunca hem Türkiye hem de İspanya'da farklı projelerde yer alarak teknik yetkinliklerimi geliştirdim.
 
-### 👨‍💻 Hakkımda
-
-[CV'ndeki Pozisyonun, örn: Yazılım Geliştirici / Veri Bilimci] olarak, modern teknolojilerle ölçeklenebilir ve kullanıcı dostu çözümler üretmeye odaklanıyorum. Sürekli öğrenmeyi ve açık kaynak projelerine katkıda bulunmayı seviyorum.
-
-- 🔭 Şu anda **[Mevcut Şirketin/Projen]** üzerinde çalışıyorum.
-- 🌱 Kendimi **[Öğrendiğin Dil/Teknoloji]** alanında geliştiriyorum.
-- 💬 **[Uzmanlık Alanların]** konularında soru sorabilirsiniz.
-- 📫 Bana buradan ulaşın: **[E-posta Adresin]**
+Şu an odağımı tamamen **Network & Web Security** alanına çevirmiş durumdayım. Ofansif güvenlik süreçlerine olan tutkumla, zafiyet analizi ve sistem sıkılaştırma konularında projeler üretiyorum.
 
 ---
 
-### 🛠️ Teknolojik Yetkinlikler
+### 🚀 Nelerle İlgileniyorum?
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
+- **Offensive Security:** Sızma testi aşamaları (Recon, Scanning, Exploitation) ve OWASP Top 10.
+- **Network Mastery:** TCP/IP, OSI, Cisco konfigürasyonları ve aktif ağ izleme.
+- **Automation & Scripting:** Python ve Bash ile güvenlik araçları (Scanner, MITM, Payload) geliştirme.
+- **System Defense:** Active Directory güvenliği, Linux/Windows hardening ve IAM yönetimi.
+
+---
+
+### 🛠️ Teknik Yetenekler & Araçlar
+
+| Alan | Araçlar & Teknolojiler |
+| :--- | :--- |
+| **Pentest & Security** | `Nmap`, `Burp Suite`, `Metasploit`, `Wireshark`, `SQLmap`, `Hydra` |
+| **Sistem & Ağ** | `Kali Linux`, `Ubuntu Server`, `Cisco Packet Tracer`, `AD`, `Firewalls` |
+| **Geliştirme** | `Python`, `Bash`, `PHP`, `JavaScript`, `HTML/CSS` |
+| **Bulut & DevSecOps** | `AWS`, `Azure`, `Docker`, `Git/GitHub` |
 
 ---
 
 ### 📊 GitHub İstatistiklerim
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=[GitHub-Kullanıcı-Adın]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GitHub-Kullanıcı-Adın]&layout=compact&theme=tokyonight" />
-</p>
+![Senin GitHub Statların](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-### 🔗 Sosyal Medya & İletişim
+### 📫 Benimle İletişime Geç
 
-<p align="left">
-<a href="[LinkedIn-Linkin]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="[Twitter/X-Linkin]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-<a href="[Websiten-Varsa]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Website" height="30" width="40" /></a>
-</p>
+- 💼 **LinkedIn:** [LinkedIn Profil Linkin]
+- 📧 **E-posta:** [E-posta Adresin]
+- 🌐 **Website/Portfolio:** [Varsa Linki]
 
+---
 <p align="center">
-  <i>"Kod yazmak, mantıklı düşünmenin şiirsel bir yoludur."</i>
+  <i>"Hack the planet, but secure it first."</i>
 </p>
