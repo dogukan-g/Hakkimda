@@ -1,69 +1,111 @@
-# 🛡️ Selamlar, Ben [İsim Soyisim]!
-### Junior Cyber Security Specialist | Penetration Tester | Red Team Enthusiast
+<!-- GİZLENDİ - JR. CYBER SECURITY SPECIALIST & PENTESTER -->
+<div align="center">
+  <img src="https://img.shields.io/badge/GİZLEN Dİ-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Gizlendi">
+  <h1>Merhaba 👋 Ben GİZLENDİ</h1>
+  <h3>JR. Cyber Security Specialist | Penetration Tester | Red Team Operative</h3>
+  
+  <img src="https://img.shields.io/badge/Yaş-21-red?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Doğum Yılı-2004-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Askerlik-Tamamlandı-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/5 Yıl Sektörel Deneyim-orange?style=flat-square" />
+  
+  <br/><br/>
+  
+  <!-- Sosyal & İletişim -->
+  <p>
+    <a href="mailto:gizlendi@example.com">
+      <img src="https://img.shields.io/badge/Email-📧-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://twitter.com/gizlendi">
+      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
+    </a>
+    <a href="https://linkedin.com/in/gizlendi">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://tryhackme.com/p/gizlendi">
+      <img src="https://img.shields.io/badge/TryHackMe-Profile-blue?style=for-the-badge&logo=tryhackme" alt="TryHackMe">
+    </a>
+  </p>
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=KULLANICI_ADIN&label=Profil%20Görüntüleme&color=0e75b6&style=flat" alt="vistors" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=GIZLENDI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GIZLENDI&theme=radical" alt="Streak" width="48%"/>
+</div>
 
-16 yaşımdan beri bilişim dünyasının içindeyim. 2004 doğumlu, askerliğini tamamlamış ve **5 yıllık sektörel deneyime** sahip bir siber güvenlik tutkunuyum. Türkiye ve İspanya'daki stajlarımla teorik bilgilerimi saha tecrübesine dönüştürdüm.
+---
+
+### 🚀 Hakkımda
+16 yaşımdan beri Bilişim Teknolojileri sektöründe çeşitli roller üstlendim. Şu anda **21 yaşındayım** (2004 doğumlu) ve askerlik görevimi tamamladım.  
+**Network & Web Security** alanında teknik yetkinliklerimi hızla geliştirmeye odaklanmış bir **araştırmacı ve pratisyenim**.
+
+- 🛡️ **Red & Blue Team** egzersizleri düzenli olarak kendi laboratuvar ortamımda yapıyorum  
+- 🔍 Güncel teknolojileri yakından takip eden, kişisel projeler üreten biriyim  
+- 🌍 **İspanya** ve **Türkiye**'de 3 farklı firmada staj deneyimi  
+- 💻 **Secure coding**, **exploit geliştirme** ve **güvenlik araçları** yazma konusunda tutkulu  
+- 🎯 Hedefim: Kurumsal güvenlik vizyonuna değer katan, pratik ve teorik bilgiyi birleştiren bir siber güvenlik uzmanı olmak
+
+> "Analitik düşünme, problem çözme ve uygulama becerilerimi kullanarak, dahil olacağım ekibin güvenlik vizyonuna pratik dokunuşlar katmak istiyorum."
+
+---
+
+### 🛠 Yetenekler & Uzmanlık Alanları
+
+#### 🔒 Siber Güvenlik & Penetrasyon Testi
+- 🏆 Tam penetrasyon testi döngüsü: Recon → Scanning → Exploitation → Post-Exploitation → Reporting  
+- 🌐 **OWASP Top 10** hakimiyeti: SQL Injection • XSS • CSRF • IDOR • RCE  
+- 🕷 Web uygulama güvenlik testleri & zafiyet analizi  
+- 🛡️ Ağ tabanlı saldırı & savunma senaryoları (SOC, IDS/IPS, Traffic Analysis, Incident Response)  
+- 🔧 Sistem güçlendirme (**Hardening**) süreçleri  
+- ☁️ Bulut güvenliği: **AWS** & **Azure** temel IAM ve güvenlik yapılandırmaları  
+
+#### 🌐 Ağ & Sistem Yönetimi
+- 📡 **TCP/IP**, OSI Modeli, DNS, DHCP, VLAN, NAT, Subnetting  
+- 🔒 Cisco Router/Switch/Firewall yapılandırma & yönetimi  
+- 🖥 **Active Directory**, LDAP, kullanıcı yönetimi & **privilege escalation**  
+- 🐧 Linux (Kali, Ubuntu Server) & Windows Server kurulum, yönetim  
+- 🛡️ IDS/IPS, SIEM, Firewall mimarileri  
+
+#### ⚔️ Araçlar & Teknolojiler
+- **Pentest & Güvenlik Araçları** → Nmap • Burp Suite • Metasploit • Wireshark • SQLMap • Hydra  
+- **Sistemler** → Kali Linux • Ubuntu Server • Windows Server • Cisco Packet Tracer  
+- **Yazılım & Scripting** → Python • Bash • HTML/CSS/JS • PHP  
+- **Diğer** → Git/GitHub • Docker • VirtualBox/VMware • AI araçları  
+
+#### 🧑‍💻 Geliştirdiğim Araçlar & Projeler (Özet)
+- 🔑 **MacChanger**, Network Scanner, MITM Tool, Packet Listener  
+- 💀 Keylogger, Backdoor, Buffer Overflow exploit'leri  
+- 📡 Ağ trafiği analizi & paket manipülasyonu script'leri  
 
 ---
 
 ### 💼 İş & Staj Deneyimleri
 
-* **Serbest Güvenlik Danışmanı** (2022 - 2026)
-    * Kişisel lab ortamında düzenli **Red & Blue Team** egzersizleri.
-    * Web ve ağ penetrasyon testleri, freelance siber güvenlik eğitimi.
-* **Web Geliştirici (Staj)** (2022)
-    * Kurumsal responsive siteler (HTML, CSS, JS, PHP).
-    * XSS, CSRF ve SQLi zafiyetlerine karşı **Secure Coding** uygulamaları.
-* **Yazılım Geliştirici (Staj)** (2021 - 2022)
-    * Python ile Network Scanner, MITM Tool ve Packet Listener geliştirme.
-    * Buffer Overflow exploit ve Backdoor mimarileri üzerine çalışmalar.
-* **Ağ Sistemleri Mühendisi (Staj - Sevilla, İspanya)** (2021)
-    * Kurumsal ağ altyapı tasarımı ve cihaz konfigürasyonu (Switch, Router, Firewall).
+- **Serbest Güvenlik Danışmanı** (Haziran 2022 → Günümüz)  
+  → Kendi lab ortamımda Red & Blue Team egzersizleri  
+  → Web ve ağ penetrasyon testleri  
+  → Freelance siber güvenlik eğitimi & danışmanlık  
+
+- **Web Geliştiricisi (Staj)** | Nisan 2022 – Haziran 2022  
+  → Responsive web siteleri (HTML/CSS/JS)  
+  → Secure coding: XSS/CSRF/SQLi korumaları  
+
+- **Yazılım Geliştiricisi (Staj)** | Aralık 2021 – Mart 2022  
+  → Python ile ağ trafiği analizi & otomasyon araçları  
+
+- **Ağ Sistemleri Mühendisi (Staj – Sevilla, İspanya)** | Ağustos 2021 – Kasım 2021  
+  → Kurumsal ağ altyapısı tasarımı & yönetimi  
+  → Router/Switch/Firewall optimizasyonu & güvenlik  
 
 ---
 
-### 🛠️ Teknik Cephanelik
-
-#### 🔴 Ofansif Güvenlik & Pentest
-* **Metodoloji:** Reconnaissance, Scanning, Exploitation, Post-Exploitation, Reporting.
-* **Web Security:** OWASP Top 10, SQLi, XSS, CSRF, IDOR, RCE.
-* **Araçlar:** `Nmap`, `Burp Suite`, `Metasploit`, `Wireshark`, `Sqlmap`, `Hydra`.
-
-#### 🔵 Savunma & Sistem Yönetimi
-* **Ağ:** TCP/IP, OSI, DNS, DHCP, VLAN, NAT, Subnetting.
-* **Sistem:** Active Directory (Privilege Escalation odaklı), Linux/Windows Hardening.
-* **İzleme:** SOC, SIEM, IDS/IPS, Traffic Analysis, Incident Response.
-* **Bulut:** AWS ve Azure (IAM & Güvenlik yapılandırmaları).
-
-#### 💻 Programlama & Scripting
-* **Diller:** Python, Bash, PHP, JavaScript.
-* **Diğer:** Docker, VirtualBox, VMware, Git/GitHub, ISO 27001.
+### 🎓 Eğitim
+**Mesleki ve Teknik Anadolu Lisesi** — Bilgişim Teknolojileri  
+**Ağ İşletmenliği & Siber Güvenlik**  
+2018 – 2022
 
 ---
 
-### 🚀 Öne Çıkan Projelerim
-* **Network Analysis Suite:** Python ile paket manipülasyonu ve Mac Changer araçları.
-* **Exploit Development:** Bellek zafiyetleri için özel payload mimarileri.
-* **Secure Web Apps:** Güvenlik odaklı PHP/JS tabanlı kurumsal arayüzler.
-
----
-
-### 📊 GitHub İstatistikleri
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=tokyonight" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
-
----
-
-### 📫 Bana Ulaşın
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:E-POSTAN)
-
----
-<p align="center">
-  <b>Ağ İşletmenliği & Siber Güvenlik Mezunu | Sürekli Öğrenen | Araştırmacı</b>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Ready%20to%20Hack!-black?style=for-the-badge&logo=cyberpunk&logoColor=red" alt="Ready to Hack" />
+  <br/><br/>
+  <i>"Offensive security ile savunma arasındaki dengeyi en iyi anlayan kazanır."</i>
+</div>
